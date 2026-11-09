@@ -1,0 +1,6 @@
+{
+  "name": "The Lake Hotel - Kolkata",
+  "description": "Premium boutique city hotel in South Kolkata situated opposite AMRI Hospital Dhakuria, near Rabindra Sarobar Lake. Instant direct bookings and luxury accommodations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
